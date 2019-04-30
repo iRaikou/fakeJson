@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Tortoise Without Sin",
+      "author": "Riley Mitchell"
+    },
+    {
+      "id": 2,
+      "title": "Opponent Of Earth",
+      "author": "Ben Hunt"
+    },
+    {
+      "id": 3,
+      "title": "Assassins Of Dreams",
+      "author": "Michael Mccarthy"
+    },
+    {
+      "id": 4,
+      "title": "Kings Of The Plague",
+      "author": "Adam Phillips"
+    },
+    {
+      "id": 5,
+      "title": "Men And Guardians",
+      "author": "Landry Curry"
+    },
+    {
+      "id": 6,
+      "title": "Descendants And Foreigners",
+      "author": "Pierce Arnold"
+    },
+    {
+      "id": 7,
+      "title": "Restoration Of The North",
+      "author": "Jude Walsh"
+    },
+    {
+      "id": 8,
+      "title": "Rise With Sins",
+      "author": "Brock Pollard"
+    },
+    {
+      "id": 9,
+      "title": "Still Breathing In The City",
+      "author": "Yosef Dotson"
+    },
+    {
+      "id": 10,
+      "title": "Challenging The Sea",
+      "author": "Morgan Willis"
+    },
+    {
+      "id": 11,
+      "title": "Edge Of The Stars",
+      "author": "Kiran Stevens"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
